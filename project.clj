@@ -3,6 +3,6 @@
   :license {:name "AGPL v3"
             :url "https://www.gnu.org/licenses/agpl-3.0.en.html"}
   :dependencies [[metosin/spec-tools "0.7.0"]
-                 [clj-http "3.8.0"]
-                 [orchestra "2017.11.12-1"]
-                 [cheshire "6.1.0"]])
+                 [clj-http/clj-http "3.8.0"]
+                 [orchestra/orchestra "2017.11.12-1"]
+                 [cheshire/cheshire "6.1.0"]])
